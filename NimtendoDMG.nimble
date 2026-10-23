@@ -5,7 +5,7 @@ author        = "Phillip Herda"
 description   = "Nintendo GameBoy DMG emulator written in Nim"
 license       = "MIT"
 srcDir        = "src"
-bin           = @["NimtendoDMG"]
+bin           = @["nimgb"]
 
 
 # Dependencies
